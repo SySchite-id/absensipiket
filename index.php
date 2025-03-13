@@ -58,7 +58,10 @@ if ($active_count < 3) {
 
 <!-- View Status -->
 <a href="status.php">View Current Status</a>
-
+<br>
+<a href="generate_report.php" target="_blank">
+    <button>Generate Daily Report</button>
+</a>
 <!-- <!DOCTYPE html>
 <html lang="en">
 <head>
